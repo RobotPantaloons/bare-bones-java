@@ -17,6 +17,10 @@
       {
         "directory": "overlay_1_21_5",
         "formats": [55, 55]
+      },
+      {
+        "directory": "overlay_25w18a",
+        "formats": [55, 59]
       }
     ]
   }
