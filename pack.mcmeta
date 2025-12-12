@@ -1,9 +1,9 @@
 {
   "pack": {
     "pack_format": 34,
-    "supported_formats": [34, 69],
+    "supported_formats": [34, 75],
     "min_format": [34, 0],
-    "max_format": [69, 0],
+    "max_format": [75, 0],
     "description": "Just like the trailers!"
   },
   "overlays": {
@@ -37,6 +37,12 @@
         "formats": [65, 69],
         "min_format": [65, 0],
         "max_format": [69, 0]
+      },
+      {
+        "directory": "overlay_1_21_11",
+        "formats": [70, 75],
+        "min_format": [70, 0],
+        "max_format": [75, 0]
       }
     ]
   }
